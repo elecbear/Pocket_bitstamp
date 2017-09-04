@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.im.elecbear.myapplication.Pocket_Bitstamp_Main">
+    tools:context="com.im.elecbear.myapplication.activity.Pocket_Bitstamp_Main">
 
     <android.support.v7.widget.RecyclerView
         android:id="@+id/bidAsk"

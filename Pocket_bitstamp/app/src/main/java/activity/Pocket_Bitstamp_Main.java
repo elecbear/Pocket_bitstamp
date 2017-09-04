@@ -1,4 +1,4 @@
-package com.im.elecbear.myapplication;
+package activity;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -8,6 +8,8 @@ import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
+
+import com.im.elecbear.myapplication.R;
 
 import adapter.BitstampOrderBookAdapter;
 import bitstamp_object.BitstampOrderBook;
