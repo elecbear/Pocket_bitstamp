@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="base_bitstamp_url">https://www.bitstamp.net/api/v2/</string>
+</resources>
